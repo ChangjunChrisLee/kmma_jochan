@@ -1,0 +1,27 @@
+project:
+  type: website
+website:
+  title: ""
+  navbar:
+    background: primary
+    right:
+    - text: "About"
+      href: index.qmd
+
+    - text: "2023 상반기 조찬포럼"
+      menu:
+      - href: 2023spring/march.qmd
+        text: "3월"
+      - href: 2023spring/april.qmd
+        text: "4월"
+      - href: 2023spring/may.qmd
+        text: "5월"
+      - href: 2023spring/june.qmd
+        text: "6월"
+ 
+format:
+  html:
+    theme:
+    - cosmo
+    - custom.scss
+    toc: true

@@ -1,0 +1,22 @@
+---
+title: "2023년 5월"
+subtitle: "조찬포럼"
+format:
+  html:
+    toc: false
+execute:
+  echo: false
+---
+
+------------------------------------------------------------------------
+
+## AI 스타트업
+
+#### 5월 1일(월) 조찬포럼
+
+
+
+#### 참여 신청
+아래 구글폼 양식을 채워 신청 부탁드립니다. 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcE3ieDh2FV9AKvIv_CkydX1g_QiNmYSOtmSwHLSto6-6Tjg/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
