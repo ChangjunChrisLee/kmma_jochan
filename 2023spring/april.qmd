@@ -14,14 +14,19 @@ execute:
 
 #### 4월 3일(월) 조찬포럼
 
+> QANDA는 세계에서 가장 많은 K12 학생들이 사진으로 질문하는 서비스입니다. 학생의 눈높이에 맞춰서 문제에 대한 해설을 제공하기 위해 AI를 어떻게 활용하고 있고 계획하고 있는지 소개해드릴 예정입니다.
 
-- 일시: 4/3(월) 7:30-9:00
-- 장소: CJ인재원 2층 앰피씨어터
-- 발제: 유병우 매스프레소 AI랩장
-- 주제 및 주요내용: 추후공지
-
+-   일시: 4/3(월) 7:30-9:00
+-   장소: [CJ인재원](https://naver.me/FGoeILmX) 2층 앰피씨어터
+-   발제: 유병우 랩장 ([매스프레소 AI랩](https://mathpresso.com/ko))
+-   주제: 전 세계 학생들을 위한 맞춤형 AI 선생님
 
 #### 참여 신청
-아래 구글폼 양식을 채워 신청 부탁드립니다. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFOXQGMC086FjSTtbcEUQaImB5taBsOejVwXlAGURebeJt9w/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+아래 구글폼 양식을 채워 신청 부탁드립니다.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFOXQGMC086FjSTtbcEUQaImB5taBsOejVwXlAGURebeJt9w/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">
+
+Loading...
+
+</iframe>
