@@ -12,11 +12,22 @@ execute:
 
 ## AI 스타트업
 
-#### 6월 5일(월) 조찬포럼
+#### 6월 2일(금) 조찬포럼
 
+-   일시: 6/2(금) 7:30-9:00
 
+-   장소: [CJ인재원](https://naver.me/FGoeILmX) 2층 앰피씨어터
+
+-   발제: 윤종영 센터장 ([AI 양재 허브](https://ai-yangjae.kr/com/com07.asp?scrID=0000000207&pageNum=5&subNum=5&ssubNum=1))
+
+-   주제: (진행중)
 
 #### 참여 신청
-아래 구글폼 양식을 채워 신청 부탁드립니다. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSezjw6UrRguzjsZkyCFikRaSZF5gSk79TRrAipct9bjqiTbAg/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+아래 구글폼 양식을 채워 신청 부탁드립니다.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSezjw6UrRguzjsZkyCFikRaSZF5gSk79TRrAipct9bjqiTbAg/viewform?embedded=true" width="640" height="1400" frameborder="0" marginheight="0" marginwidth="0">
+
+Loading...
+
+</iframe>
