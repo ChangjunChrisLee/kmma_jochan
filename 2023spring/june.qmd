@@ -16,7 +16,7 @@ execute:
 
 -   일시: 6/2(금) 7:30-9:00
 
--   장소: [CJ인재원](https://naver.me/FGoeILmX) 2층 앰피씨어터
+-   장소: [CJ리더쉽센터](https://naver.me/GyeavQOd) 오디토리움
 
 -   발제: 윤종영 센터장 ([AI 양재 허브](https://ai-yangjae.kr/com/com07.asp?scrID=0000000207&pageNum=5&subNum=5&ssubNum=1))
 
