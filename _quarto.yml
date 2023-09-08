@@ -8,6 +8,15 @@ website:
     - text: "About"
       href: index.qmd
 
+    - text: "2023 하반기 조찬포럼"
+      menu:
+      - href: 2023spring/sep.qmd
+        text: "9월"
+      # - href: 2023spring/april.qmd
+      #   text: "10월"
+      # - href: 2023spring/may.qmd
+      #   text: "11월"
+        
     - text: "2023 상반기 조찬포럼"
       menu:
       - href: 2023spring/march.qmd

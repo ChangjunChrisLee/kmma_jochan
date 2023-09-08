@@ -1,0 +1,29 @@
+---
+title: "2023년 5월"
+subtitle: "조찬포럼"
+format:
+  html:
+    toc: false
+execute:
+  echo: false
+---
+
+------------------------------------------------------------------------
+
+## 다시, 메타버스 
+
+#### 9월 18일(월) 조찬포럼
+
+-   일시: 9/18(월) 7:30-9:00
+
+-   장소: [CJ인재원](https://naver.me/FGoeILmX) 2층 앰피씨어터
+
+-   발제: 이후정 단장 ([비브스튜디오스](http://vivestudios.com/v2/web/index))
+
+
+#### 참여 신청
+
+아래 구글폼 양식을 채워 신청 부탁드립니다.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeJERV7CjMuQ4FQjApDVnY6X1xk7GoeG1ztkzO6pDKnsSPjGQ/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe>
+
