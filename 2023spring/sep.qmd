@@ -1,5 +1,5 @@
 ---
-title: "2023년 5월"
+title: "2023년 9월"
 subtitle: "조찬포럼"
 format:
   html:
