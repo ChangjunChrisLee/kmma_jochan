@@ -14,8 +14,8 @@ website:
         text: "9월"
       - href: 2023spring/oct.qmd
         text: "10월"
-      # - href: 2023spring/nov.qmd
-      #   text: "11월"
+      - href: 2023spring/nov.qmd
+        text: "11월"
         
     - text: "2023 상반기 조찬포럼"
       menu:
